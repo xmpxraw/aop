@@ -1,3 +1,4 @@
+// 增加注释
 Function.prototype.before = function (fn) {
   var _self = this;
   return function () {
